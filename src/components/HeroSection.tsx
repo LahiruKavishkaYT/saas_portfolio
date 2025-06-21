@@ -55,7 +55,7 @@ const HeroSection = () => {
           </div>
 
           {/* Stats */}
-          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <div className="glass-card bg-white/10 backdrop-blur-sm border border-white/20 p-6 rounded-2xl hover-lift">
               <Code className="w-12 h-12 text-blue-400 mx-auto mb-4" />
               <h3 className="text-2xl font-bold text-white mb-2">500+</h3>
@@ -71,7 +71,7 @@ const HeroSection = () => {
               <h3 className="text-2xl font-bold text-white mb-2">5+</h3>
               <p className="text-gray-300">Years Experience</p>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
     </section>
